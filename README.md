@@ -47,7 +47,7 @@ This project is for personal and educational use only.
 ![Skill Page](skill.png)
 
 ### Projects  Page
-![Projets Page](projets.png)
+![Projets Page](projects.png)
 
 ### Contact   Page
 ![Contact Page](contact.png)
