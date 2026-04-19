@@ -3,7 +3,7 @@
 Features
 
 ## 👨‍💻 Author
-Name: Hritik Tiwari
+Name: Piyush Tiwari
 MCA Student
 Passionate Web Developer 💻
 
